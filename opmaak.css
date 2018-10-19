@@ -1,0 +1,35 @@
+body {
+  background-color: LightSlateGray;
+  color: Lavender;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  display: inline-block;
+}
+
+p {
+    font-family: "Tahoma", Geneva,sans-serif;
+}
+h1 {
+    border: 4px dotted Lavender;
+}
+img {
+    border: 4px dotted Lavender;
+}
+iframe {
+    border: 4px dotted Lavender;
+}
+h1 {
+    font-family: "Tahoma", Geneva,sans-serif;
+
+}
+h4 {
+    font-family: "Tahoma", Geneva,sans-serif;
+}
+a {
+  color: White;
+}
